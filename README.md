@@ -1,6 +1,6 @@
-Q2 Supplemental
+# Q2 Supplement
 
-HEEUP vs [1] in difference.
+## HEEUP vs [1] in difference.
 
 | Difference   | HEEUP                                        | [1]                                      | Remarks                                     |
 |--------------|----------------------------------------------|-----------------------------------------------|---------------------------------------------|
@@ -10,7 +10,7 @@ HEEUP vs [1] in difference.
 | Action       | Multi-dimensional actions, adjusting various aspects of urban planning from macro to micro | Focused on single decision-making for land use and roads | Multi-level refinement vs. single-point decision-making |
 | Reward       | Energy efficiency as the core metric at each hierarchical level | Service quality, ecological balance, and traffic flow efficiency make up a composite reward system | Tiered focus on energy vs. diverse urban benefits |
 
-HEEUP vs [1] in result.
+## HEEUP vs [1] in result.
 
 | City   | MIAMI HEEUP | MIAMI [1] | Alq HEEUP | Alq [1] |
 |--------|-------------|----------------|-----------|--------------|
