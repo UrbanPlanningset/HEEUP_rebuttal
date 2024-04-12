@@ -23,14 +23,8 @@ in:
   
 where positive values ​​indicate improved energy savings and negative values ​​indicate lower performance than the original configuration. We run five independent experiments (Exp.), and  present the results in the table below. The result indicate the compared to [1], the energy saving effect of HEEUP in two cities is approximately 1.078 times and 1.069 times additionally improved. HEEUP significantly outperforms the [1] strategy in terms of energy saving. This result clearly demonstrates the significant advantages of HEEUP in improving energy efficiency in optimizing urban layout.
   
-| City   | MIAMI HEEUP | MIAMI [1] | Alq HEEUP | Alq [1] |
-|--------|-------------|----------------|-----------|--------------|
-| Exp. 1 | 9.05%       | -1.17%         | 7.30%     | -0.32%       |
-| Exp. 2 | 7.72%       | 1.66%          | 7.25%     | -0.96%       |
-| Exp. 3 | 8.74%       | 1.24%          | 7.15%     | 1.21%        |
-| Exp. 4 | 8.86%       | 1.55%          | 7.33%     | 1.15%        |
-| Exp. 5 | 9.11%       | 1.41%          | 7.19%     | 0.75%        |
-| **Average** | **8.70%**   | 0.94%      | **7.24%** | 0.37%    |
+
+
 
 **Table : Comparison of energy efficiency of HEEUP vs. [1]**
 
