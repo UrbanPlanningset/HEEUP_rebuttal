@@ -12,8 +12,7 @@
 
 ## HEEUP v.s. [1] in energy saving.
 
-- **HEEUP** adopts a hierarchical, energy-saving optimization approach, progressing from Urban Structure -> Generate Land Use Configuration -> Adjust Building Design Parameters. Combine spatial attributes to carry out planning at all levels of decision-making to minimize energy consumption under reasonable layout.
-- **[1]** employs a sequential decision-making model, addressing urban complexities and spatial planning needs. The urban identity is based on dynamic adaptation with a comprehensive reward system aimed at enhancing service delivery, ecological sustainability and transport efficiency.
+
 
 | City   | MIAMI HEEUP | MIAMI [1] | Alq HEEUP | Alq [1] |
 |--------|-------------|----------------|-----------|--------------|
@@ -26,6 +25,8 @@
 
 **Table : Comparison of energy efficiency of HEEUP vs. [1]**
 
+- **HEEUP** adopts a hierarchical, energy-saving optimization approach, progressing from Urban Structure -> Generate Land Use Configuration -> Adjust Building Design Parameters. Combine spatial attributes to carry out planning at all levels of decision-making to minimize energy consumption under reasonable layout.
+- **[1]** employs a sequential decision-making model, addressing urban complexities and spatial planning needs. The urban identity is based on dynamic adaptation with a comprehensive reward system aimed at enhancing service delivery, ecological sustainability and transport efficiency.
 
 In essence, HEEUP is engineered for energy optimization within urban layouts. While [1] multifaceted strategy to meet diverse urban service demands through adaptive spatial planning.
 The results prove that HEEUP shows obvious advantages in promoting energy conservation.
