@@ -10,7 +10,7 @@
 | Action       | Multi-dimensional actions, adjusting various aspects of urban planning from macro to micro | Focused on single decision-making for land use and roads | Multi-level refinement vs. single-point decision-making |
 | Reward       | Energy efficiency as the core metric at each hierarchical level | Service quality, ecological balance, and traffic flow efficiency make up a composite reward system | Tiered focus on energy vs. diverse urban benefits |
 
-## HEEUP vs [1] in result.
+## HEEUP v.s. [1] in energy saving.
 
 | City   | MIAMI HEEUP | MIAMI [1] | Alq HEEUP | Alq [1] |
 |--------|-------------|----------------|-----------|--------------|
